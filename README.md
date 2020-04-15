@@ -4,6 +4,19 @@ A Machine Learning model trained on 1000 estimators to predict the time in secon
 
 Link to dataset : https://www.kaggle.com/c/nyc-taxi-trip-duration
 
+Steps:
+
+    1. Run the jupyter file.
+
+    2. Can tweak the n_estimators parameter , have taken it to be 1000 you can start off with 50 and then gradually increase it.
+
+    3. Save the model to any local directory.
+
+    4. Run Gui.py
+
+Please do give the deserved credits to me for which ever purpose you ll be using the code :) 
+
+
 References :
 
     1. https://stackabuse.com/scikit-learn-save-and-restore-models/
