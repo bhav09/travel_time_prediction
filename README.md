@@ -6,7 +6,7 @@ Link to dataset : https://www.kaggle.com/c/nyc-taxi-trip-duration
 
 Steps:
 
-    1. Run the jupyter file.
+    1. Run NY_taxiDataset (2).ipynb , file first.
 
     2. Can tweak the n_estimators parameter , have taken it to be 1000 you can start off with 50 and then gradually increase it.
 
