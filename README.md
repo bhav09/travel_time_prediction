@@ -1,4 +1,4 @@
-# travel_time_prediction
+# travel_time_prediction_with_local_guide
 
 A Machine Learning model trained on 1000 estimators to predict the time in seconds it will be taking for you to travel from one location to another.
 
